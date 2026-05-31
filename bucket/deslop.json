@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/Nimblesite/Deslop/releases/download/v0.1.0/deslop-0.1.0-windows-x64.zip",
-      "hash": "ffce3e1eb4bf4b5461e1e23b93fcaa79a4fbcc1867562395ebcbf04ed06285f5"
+      "hash": "2b90666303a1a8c8a193d28aa4eb4226f62044695cdb2159a51419aa8c31f50f"
     }
   },
   "bin": [
