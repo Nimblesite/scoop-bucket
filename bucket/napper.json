@@ -1,12 +1,12 @@
 {
-  "version": "0.13.4",
+  "version": "0.13.5",
   "description": "CLI-first, test-oriented HTTP API testing tool. Send requests, run assertions, manage environments.",
   "homepage": "https://napperapi.dev",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Nimblesite/napper/releases/download/v0.13.4/napper-v0.13.4-win-x64.zip",
-      "hash": "1ee99a9946f7e29e4ca7731b4f0ba7545ddc42a3ea6161cc7d8a1f5b00015d51",
+      "url": "https://github.com/Nimblesite/napper/releases/download/v0.13.5/napper-v0.13.5-win-x64.zip",
+      "hash": "9f9cbd9e6a068cfeabba2204683f97a95977da976c7efe136a35cb45cb7a235b",
       "bin": "napper.exe"
     }
   },
