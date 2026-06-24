@@ -1,12 +1,12 @@
 {
-  "version": "0.19.0",
+  "version": "0.20.0",
   "description": "Live duplicate-code analysis server for AI coding agents",
   "homepage": "https://github.com/Nimblesite/Deslop",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Nimblesite/Deslop/releases/download/v0.19.0/deslop-0.19.0-windows-x64.zip",
-      "hash": "b236e67996898155f0d44e6f216fe8a2b4dd01c9d717d40bef0b7bb04d8a8ead"
+      "url": "https://github.com/Nimblesite/Deslop/releases/download/v0.20.0/deslop-0.20.0-windows-x64.zip",
+      "hash": "3202767e2a9d33dfa07269bdec36a6f73bec5963bffc49b27d3403eedd73a0da"
     }
   },
   "bin": [
@@ -20,7 +20,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/Nimblesite/Deslop/releases/download/v0.19.0/deslop-$version-windows-x64.zip"
+        "url": "https://github.com/Nimblesite/Deslop/releases/download/v0.20.0/deslop-$version-windows-x64.zip"
       }
     }
   }
