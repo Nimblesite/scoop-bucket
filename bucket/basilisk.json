@@ -1,16 +1,16 @@
 {
-  "version": "0.21.2",
+  "version": "0.22.0",
   "description": "Strict-by-default Python type checker and LSP, built in Rust",
   "homepage": "https://www.basilisk-python.dev",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Nimblesite/Basilisk/releases/download/v0.21.2/basilisk-x86_64-pc-windows-msvc.zip",
-      "hash": "c3cc9c19425907e218c0765d58b9c570b8c433c8143f6152d64648fcf1aaed45"
+      "url": "https://github.com/Nimblesite/Basilisk/releases/download/v0.22.0/basilisk-x86_64-pc-windows-msvc.zip",
+      "hash": "66fcb31755aec3742085f04c626b07956fc5aa914f9670f111d09633c159311b"
     },
     "arm64": {
-      "url": "https://github.com/Nimblesite/Basilisk/releases/download/v0.21.2/basilisk-aarch64-pc-windows-msvc.zip",
-      "hash": "31cdcb63b5e250ec40fc52a2b8a6a84bccd513d43b0afef8626fb04ce439f746"
+      "url": "https://github.com/Nimblesite/Basilisk/releases/download/v0.22.0/basilisk-aarch64-pc-windows-msvc.zip",
+      "hash": "79c5f19448fadbe86023dcb239d415554f3ecf0b83710a986069515d9f1ebcf5"
     }
   },
   "bin": "basilisk.exe",
