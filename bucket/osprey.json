@@ -1,5 +1,5 @@
 {
-  "version": "0.26.0",
+  "version": "0.28.1",
   "description": "Osprey — a functional language with algebraic effects, fibers, and compile-time safety",
   "homepage": "https://ospreylang.dev",
   "license": "MIT",
@@ -9,9 +9,9 @@
   ],
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Nimblesite/osprey/releases/download/v0.26.0/osprey-0.26.0-win32-x64.tar.gz",
-      "hash": "610506783f3abb5a1de2959bb66adf0068225c7fb0714759f060862467bff0e8",
-      "extract_dir": "osprey-0.26.0-win32-x64"
+      "url": "https://github.com/Nimblesite/osprey/releases/download/v0.28.1/osprey-0.28.1-win32-x64.tar.gz",
+      "hash": "b0d1d0a232a3c58e4024a58315b6da7595e8f36b823f7a75ed6f09470eb4cbe4",
+      "extract_dir": "osprey-0.28.1-win32-x64"
     }
   },
   "bin": "osprey.exe",
